@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KY-Project/KY-Project.vcxproj" Id="ba7b70c5-366d-413c-8357-3a1000068c9e" />
+</Solution>
